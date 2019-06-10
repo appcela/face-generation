@@ -10,11 +10,15 @@ In this project, you'll use generative adversarial networks to generate new imag
 
 # Result
 
-30 epochs
+30 epochs - depth = 128
 
 ![](https://raw.githubusercontent.com/appcela/face-generation/master/30-epochs-celeb-faces.png)
 
-100 epochs
+30 epochs - depth = 256
+
+![](https://raw.githubusercontent.com/appcela/face-generation/master/30-epochs-256-depth-celeb-faces.png)
+
+100 epochs - depth = 128
 
 ![](https://raw.githubusercontent.com/appcela/face-generation/master/100-epochs-celeb-faces.png)
 
